@@ -1,0 +1,13 @@
+node_modules
+dist
+static/assets
+static/email/test-emails
+/.env
+/admin-ui
+/.traefik/certs
+/.minio
+.idea/*
+yarn-error.log
+.DS_Store
+/logs/
+/testkeys
